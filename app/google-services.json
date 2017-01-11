@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "216962315796",
+    "firebase_url": "https://fir-authentication-255de.firebaseio.com",
+    "project_id": "fir-authentication-255de",
+    "storage_bucket": "fir-authentication-255de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216962315796:android:b28817e0b34df61c",
+        "android_client_info": {
+          "package_name": "rhynix.eliud.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216962315796-8u7l6oku5idr0t85c55l30dpsqvnca2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rhynix.eliud.firebaseauthentication",
+            "certificate_hash": "DB797B007670A6D0B8AD833390F1C827EFD1C28F"
+          }
+        },
+        {
+          "client_id": "216962315796-8oq972jh5jcm62dtda4dnuji7epgtjgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmZGR8JxwMRZvVMwRuDxTQPBYYx1FyG48"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216962315796-8oq972jh5jcm62dtda4dnuji7epgtjgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
